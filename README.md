@@ -86,8 +86,8 @@ eda-covid19-usa/
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/miguelRedondoWeb/eda-covid19-usa.git
-cd eda-covid19-usa
+git clone https://github.com/Bootcamp-IA-MAD-P7/Proyecto3-Miguel-EDA-Covid19-USA.git
+cd Proyecto3-Miguel-EDA-Covid19-USA
 ```
 
 Crear y activar un entorno virtual:
